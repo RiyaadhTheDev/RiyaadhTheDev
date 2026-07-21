@@ -3,8 +3,7 @@
 **Co-Founder @ [UltiMedia](https://ultimedia.co.za)** — Cape Town-based digital marketing & AI agency  
 **Founder @ [Agentic AI Academy](https://academy.ultimedia.co.za/)** — Autonomous agency scaling for SME markets  
 **AI Workflow Engineer & Systems Architect**  
-**SEO, GEO & AEO Specialist**  
-**Builder of OptiPrompt** — Internal AI prompt optimization engine
+**SEO, GEO & AEO Specialist**
 
 Building agentic AI architecture, autonomous workflows, and SEO/GEO systems. Not a traditional marketer — I orchestrate systems.
 
@@ -14,6 +13,9 @@ Building agentic AI architecture, autonomous workflows, and SEO/GEO systems. Not
 - **SEO/GEO/AEO:** Generative engine optimization, answer engine optimization, technical SEO
 - **Systems Architecture:** WordPress/Elementor, FluentCRM, FluentForms
 - **Automation:** Self-running client workflows, predictive analytics, back-office autopilot
+
+## Internal Tools
+- **OptiPrompt** — Internal AI prompt optimization engine (co-founded with Abdul at UltiMedia)
 
 ## Links
 - [UltiMedia](https://ultimedia.co.za)
