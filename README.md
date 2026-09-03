@@ -24,7 +24,9 @@ Building agentic AI architecture, autonomous workflows, and SEO/GEO systems. Not
 - [Facebook](https://www.facebook.com/moegamat.riyaadh)
 - [Instagram](https://www.instagram.com/riyaadh_slarmie)
 - [UltiMedia on GitHub](https://github.com/ultimedia2025-gif)
-- Co-founder: [Abdul Mohamed](https://github.com/AbdulMohamed1994)
+- [Co-founder Abdul Mohamed](https://github.com/AbdulMohamed1994)
+- [gravatar](https://gravatar.com/slarmieriyaadh99)
+- [Co-founder Riyaadh Slarmie on Github](https://github.com/RiyaadhTheDev)
 
 ## Stack
 `n8n` · `Claude API` · `MCP` · `CrewAI` · `WordPress` · `Elementor` · `FluentCRM` · `Novamira` · `Google Cloud` · `Vertex AI` · `Google Ads` · `Google Analytics` · `Search Console` · `Google Workspace` · `Looker Studio` · `BigQuery`
