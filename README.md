@@ -18,14 +18,14 @@ Building agentic AI architecture, autonomous workflows, and SEO/GEO systems. Not
 - **OptiPrompt** - Internal AI prompt optimization engine (co-founded with Abdul Mohamed at UltiMedia)
 
 ## Links
-- [UltiMedia](https://ultimedia.co.za)
-- [Reddy AI - Agentic AI Academy](https://reddyai.co.za/)
-- [LinkedIn](https://linkedin.com/in/moegamat-riyaadh-slarmie-207a43237)
-- [Facebook](https://www.facebook.com/moegamat.riyaadh)
-- [Instagram](https://www.instagram.com/riyaadh_slarmie)
-- [UltiMedia on GitHub](https://github.com/ultimedia2025-gif)
-- [Co-founder Abdul Mohamed](https://github.com/AbdulMohamed1994)
-- [gravatar](https://gravatar.com/slarmieriyaadh99)
+- UltiMedia: [UltiMedia](https://ultimedia.co.za)
+- ReddyAi: [Reddy AI - Agentic AI Academy](https://reddyai.co.za/)
+- Linkedin: [LinkedIn](https://linkedin.com/in/moegamat-riyaadh-slarmie-207a43237)
+- Facebook: [Facebook](https://www.facebook.com/moegamat.riyaadh)
+- Instagram: [Instagram](https://www.instagram.com/riyaadh_slarmie)
+- Github: [UltiMedia on GitHub](https://github.com/ultimedia2025-gif)
+- Github: [Co-founder Abdul Mohamed](https://github.com/AbdulMohamed1994)
+- Gravatar: [@slarmieriyaadh99](https://gravatar.com/slarmieriyaadh99)
 
 ## Stack
 `n8n` · `Claude API` · `MCP` · `CrewAI` · `WordPress` · `Elementor` · `FluentCRM` · `Novamira` · `Google Cloud` · `Vertex AI` · `Google Ads` · `Google Analytics` · `Search Console` · `Google Workspace` · `Looker Studio` · `BigQuery`
