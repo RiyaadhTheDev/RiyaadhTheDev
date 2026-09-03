@@ -1,7 +1,7 @@
 # Riyaadh Slarmie
 
 **Co-Founder @ [UltiMedia](https://ultimedia.co.za)** - Cape Town-based digital marketing & AI agency  
-**Founder @ [Reddy AI Agentic AI Academy](https://reddyai.co.za/)** - Autonomous agency scaling for SME markets  
+**Founder @ [Reddy AI - Agentic AI Academy](https://reddyai.co.za/)** - Autonomous agency scaling for SME markets  
 **AI Workflow Engineer & Systems Architect**  
 **SEO, GEO & AEO Specialist**
 
